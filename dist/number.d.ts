@@ -9,3 +9,4 @@ declare let sum: number;
 declare let substraction: number;
 declare let multiplication: number;
 declare let division: number;
+declare let modulus: number;

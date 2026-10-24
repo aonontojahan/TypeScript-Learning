@@ -26,4 +26,6 @@ console.log(`The multiplication of ${number1} and ${number2} is ${multiplication
 // division operation
 let division = number2 / number1;
 console.log(`The division of ${number2} and ${number1} is ${division}.`);
+let modulus = number2 % number1;
+console.log('The modulas of ${number2} and ${number1} is ${modulus}.');
 //# sourceMappingURL=number.js.map
