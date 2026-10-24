@@ -22,3 +22,5 @@ if (typeof value === "string") {
 }
 
 // unknown is safer than any because it forces us to check the type of the variable before using it. So we should use unknown instead of any as much as possible.
+
+console.log('I learn about Any vs Unknown in TypeScript');
