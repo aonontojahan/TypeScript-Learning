@@ -15,3 +15,5 @@ if (isAdmin) {
 else {
     console.log("User is not an admin.");
 }
+
+console.log('I learn about Any vs Unknown in TypeScript');
