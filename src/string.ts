@@ -20,3 +20,5 @@ console.log(message);
 console.log(message.toUpperCase());
 console.log(message.toLowerCase());
 console.log(message.length);
+
+console.log('I learn about string in TypeScript');
