@@ -43,3 +43,5 @@ console.log(`The division of ${number2} and ${number1} is ${division}.`);
 
 let modulus: number = number2 % number1;
 console.log('The modulas of ${number2} and ${number1} is ${modulus}.');
+
+console.log('I learn about number in TypeScript');
