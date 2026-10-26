@@ -8,3 +8,5 @@ let user ={
 
 console.log(user[id1]);
 console.log(user[id2]);
+
+console.log('I learn about symbol in TypeScript');
